@@ -17,4 +17,4 @@
   Example of a Typescript application following Domain-Driven Design (DDD) and
   Command Query Responsibility Segregation (CQRS) principles keeping the code as simple as possible.
 
-</p>
+</p> 
